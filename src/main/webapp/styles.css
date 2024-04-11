@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Nov 24, 2023, 12:25:55 PM
+    Author     : BigZ
+*/
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #343a40;
+    color: white;
+}
+
+header {
+    background-color: #292b2c;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+}
+
+header .title {
+    display: inline-block;
+    margin-left: 0px;
+    font-weight: bolder;
+}
+
+.card {
+    background-color: #292b2c;
+    border: 1px solid #343a40;
+    color: white;
+}
